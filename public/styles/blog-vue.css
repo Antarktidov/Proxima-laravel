@@ -1,0 +1,13 @@
+.vue-btn {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px; 
+    display: flex;
+    
+    font-size: 30px;
+    /*width: 1165px;*/
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 6px;
+}
